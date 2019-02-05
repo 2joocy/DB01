@@ -7,6 +7,8 @@ To run the project, you'll have to have the newest version of NodeJS installed, 
 
 ```npm i -g typescript```
 
+```npm i```
+
 Once you've done that, you open a console in the root folder of the project and type in ``tsc```
 
 Remember to drag in the ressource folder to the transpiled folder.
